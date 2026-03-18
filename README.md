@@ -30,6 +30,11 @@ Target Variable:
 - Improved performance using ensemble learning
 - Compared results with Decision Tree
 
+### ✅ Practical 03: SVM
+- Implemented SVM classifier using LinearSVC
+- Applied feature scaling for better performance
+- Compared results with previous models
+
 ---
 
 ## 📁 Repository Structure
