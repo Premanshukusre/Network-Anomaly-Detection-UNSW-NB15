@@ -1,6 +1,7 @@
 # Learning Log
 
 This file tracks daily progress of the Network Anomaly Detection project.
+Project started with structured GitHub workflow and daily commits.
 
 
 ## Day 1 (Decision Tree)
