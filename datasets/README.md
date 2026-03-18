@@ -1,1 +1,2 @@
-This folder contains the UNSW-NB15 dataset used for anomaly detection.
+- This folder contains the UNSW-NB15 dataset used for anomaly detection.
+- The dataset is used for training and testing anomaly detection models.
