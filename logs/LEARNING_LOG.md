@@ -17,3 +17,11 @@ This file tracks daily progress of the Network Anomaly Detection project.
 - Performed preprocessing and encoding
 - Evaluated model performance
 - Compared with Decision Tree
+
+## Day 3 (SVM)
+
+- Implemented Support Vector Machine (SVM) model
+- Applied feature scaling using StandardScaler
+- Used LinearSVC for faster training on large dataset
+- Evaluated model performance using accuracy and confusion matrix
+- Compared results with Decision Tree and Random Forest
