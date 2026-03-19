@@ -78,6 +78,13 @@ To build and compare multiple machine learning models for detecting network intr
 
 ---
 
+## 📊 Model Comparison (Till Now)
+
+- Decision Tree → Simple but prone to overfitting
+- Random Forest → Best performance so far
+- SVM → Good but slower for large dataset
+- Logistic Regression → Simple but less powerful for complex patterns
+
 ## 📌 Note
 
 This project is being developed step-by-step with proper version control using GitHub.
