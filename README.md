@@ -4,6 +4,8 @@ This project is part of Machine Learning TAE-1 (Project Based Learning).
 
 The goal of this project is to detect network anomalies using machine learning algorithms on the UNSW-NB15 dataset.
 
+This project demonstrates different machine learning techniques for anomaly detection.
+
 ---
 
 ## 📊 Dataset
