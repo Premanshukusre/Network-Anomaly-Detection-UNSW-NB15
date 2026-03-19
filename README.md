@@ -35,6 +35,11 @@ Target Variable:
 - Applied feature scaling for better performance
 - Compared results with previous models
 
+### ✅ Practical 04: Logistic Regression
+- Implemented Logistic Regression classifier
+- Applied feature scaling for better performance
+- Compared results with other models
+
 ---
 
 ## 📁 Repository Structure
