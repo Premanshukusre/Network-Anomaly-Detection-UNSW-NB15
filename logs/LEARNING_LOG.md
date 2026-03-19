@@ -26,3 +26,10 @@ Project started with structured GitHub workflow and daily commits.
 - Used LinearSVC for faster training on large dataset
 - Evaluated model performance using accuracy and confusion matrix
 - Compared results with Decision Tree and Random Forest
+
+## Day 4 (Logistic Regression)
+
+- Implemented Logistic Regression model
+- Applied feature scaling using StandardScaler
+- Trained model and evaluated performance
+- Compared results with previous models
