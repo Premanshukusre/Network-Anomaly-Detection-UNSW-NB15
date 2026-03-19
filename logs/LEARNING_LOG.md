@@ -1,7 +1,10 @@
 # Learning Log
 
-This file tracks daily progress of the Network Anomaly Detection project.
-Project started with structured GitHub workflow and daily commits.
+- Implemented Decision Tree model
+- Loaded and explored UNSW-NB15 dataset
+- This file tracks daily progress of the Network Anomaly Detection project.
+- Project started with structured GitHub workflow and daily commits.
+- This log tracks daily progress and model implementations step-by-step.
 
 
 ## Day 1 (Decision Tree)
