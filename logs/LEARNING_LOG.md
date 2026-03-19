@@ -1,7 +1,10 @@
 # Learning Log
 
-This file tracks daily progress of the Network Anomaly Detection project.
-Project started with structured GitHub workflow and daily commits.
+- Implemented Decision Tree model
+- Loaded and explored UNSW-NB15 dataset
+- This file tracks daily progress of the Network Anomaly Detection project.
+- Project started with structured GitHub workflow and daily commits.
+- This log tracks daily progress and model implementations step-by-step.
 
 
 ## Day 1 (Decision Tree)
@@ -26,3 +29,10 @@ Project started with structured GitHub workflow and daily commits.
 - Used LinearSVC for faster training on large dataset
 - Evaluated model performance using accuracy and confusion matrix
 - Compared results with Decision Tree and Random Forest
+
+## Day 4 (Logistic Regression)
+
+- Implemented Logistic Regression model
+- Applied feature scaling using StandardScaler
+- Trained model and evaluated performance
+- Compared results with previous models

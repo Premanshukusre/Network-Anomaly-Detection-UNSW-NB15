@@ -4,6 +4,8 @@ This project is part of Machine Learning TAE-1 (Project Based Learning).
 
 The goal of this project is to detect network anomalies using machine learning algorithms on the UNSW-NB15 dataset.
 
+This project demonstrates different machine learning techniques for anomaly detection.
+
 ---
 
 ## 📊 Dataset
@@ -35,6 +37,11 @@ Target Variable:
 - Applied feature scaling for better performance
 - Compared results with previous models
 
+### ✅ Practical 04: Logistic Regression
+- Implemented Logistic Regression classifier
+- Applied feature scaling for better performance
+- Compared results with other models
+
 ---
 
 ## 📁 Repository Structure
@@ -52,6 +59,7 @@ Network-Anomaly-Detection-UNSW-NB15
 - Day 1 → Decision Tree completed
 - Day 2 → Random Forest completed
 - Day 3 → SVM completed
+- Day 4 → Logistic Regression completed
 
 ---
 
@@ -71,6 +79,13 @@ To build and compare multiple machine learning models for detecting network intr
 - Scikit-learn
 
 ---
+
+## 📊 Model Comparison (Till Now)
+
+- Decision Tree → Simple but prone to overfitting
+- Random Forest → Best performance so far
+- SVM → Good but slower for large dataset
+- Logistic Regression → Simple but less powerful for complex patterns
 
 ## 📌 Note
 
