@@ -42,6 +42,11 @@ Target Variable:
 - Applied feature scaling for better performance
 - Compared results with other models
 
+### ✅ Practical 05: KNN
+- Implemented KNN classifier
+- Applied feature scaling
+- Final model in the project
+
 ---
 
 ## 📁 Repository Structure
@@ -60,6 +65,8 @@ Network-Anomaly-Detection-UNSW-NB15
 - Day 2 → Random Forest completed
 - Day 3 → SVM completed
 - Day 4 → Logistic Regression completed
+- Day 5 → KNN completed
+- Project completed ✅
 
 ---
 
@@ -90,4 +97,14 @@ To build and compare multiple machine learning models for detecting network intr
 ## 📌 Note
 
 This project is being developed step-by-step with proper version control using GitHub.
+
+## 📊 Final Model Comparison
+
+- Decision Tree → Easy but overfitting risk
+- Random Forest → Best performance overall
+- SVM → Good but slow for large data
+- Logistic Regression → Simple but limited
+- KNN → Simple but slower during prediction
+
+This project demonstrates multiple machine learning approaches for network anomaly detection using UNSW-NB15 dataset.
 

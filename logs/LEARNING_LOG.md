@@ -36,3 +36,12 @@
 - Applied feature scaling using StandardScaler
 - Trained model and evaluated performance
 - Compared results with previous models
+
+## Day 5 (KNN)
+
+- Implemented K-Nearest Neighbors model
+- Applied feature scaling for distance-based learning
+- Evaluated model performance
+- Completed all 5 machine learning models
+
+Project successfully completed with 5 models and proper GitHub workflow.
