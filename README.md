@@ -98,3 +98,11 @@ To build and compare multiple machine learning models for detecting network intr
 
 This project is being developed step-by-step with proper version control using GitHub.
 
+## 📊 Final Model Comparison
+
+- Decision Tree → Easy but overfitting risk
+- Random Forest → Best performance overall
+- SVM → Good but slow for large data
+- Logistic Regression → Simple but limited
+- KNN → Simple but slower during prediction
+
