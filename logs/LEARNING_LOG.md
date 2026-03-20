@@ -43,3 +43,5 @@
 - Applied feature scaling for distance-based learning
 - Evaluated model performance
 - Completed all 5 machine learning models
+
+Project successfully completed with 5 models and proper GitHub workflow.
