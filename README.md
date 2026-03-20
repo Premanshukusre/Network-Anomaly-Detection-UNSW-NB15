@@ -65,6 +65,8 @@ Network-Anomaly-Detection-UNSW-NB15
 - Day 2 → Random Forest completed
 - Day 3 → SVM completed
 - Day 4 → Logistic Regression completed
+- Day 5 → KNN completed
+- Project completed ✅
 
 ---
 
