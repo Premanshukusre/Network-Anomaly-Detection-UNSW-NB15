@@ -106,3 +106,5 @@ This project is being developed step-by-step with proper version control using G
 - Logistic Regression → Simple but limited
 - KNN → Simple but slower during prediction
 
+This project demonstrates multiple machine learning approaches for network anomaly detection using UNSW-NB15 dataset.
+
