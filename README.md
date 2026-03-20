@@ -42,6 +42,11 @@ Target Variable:
 - Applied feature scaling for better performance
 - Compared results with other models
 
+### ✅ Practical 05: KNN
+- Implemented KNN classifier
+- Applied feature scaling
+- Final model in the project
+
 ---
 
 ## 📁 Repository Structure
