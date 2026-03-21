@@ -12,6 +12,8 @@ This project demonstrates different machine learning techniques for anomaly dete
 
 This project focuses on detecting network anomalies using machine learning techniques on the UNSW-NB15 dataset.
 
+---
+
 ## 📊 Dataset
 
 The UNSW-NB15 dataset contains modern network traffic data including both normal and malicious activities.
@@ -98,12 +100,16 @@ To build and compare multiple machine learning models for detecting network intr
 3. Upload dataset
 4. Run all cells
 
+---
+
 ## ✨ Highlights
 
 - Implemented 5 ML models
 - Compared performance
 - Used GitHub workflow
 - Maintained daily logs
+
+---
 
 ## 📊 Model Comparison (Till Now)
 
@@ -112,9 +118,13 @@ To build and compare multiple machine learning models for detecting network intr
 - SVM → Good but slower for large dataset
 - Logistic Regression → Simple but less powerful for complex patterns
 
+---
+
 ## 📌 Note
 
 This project is being developed step-by-step with proper version control using GitHub.
+
+---
 
 ## 📊 Final Model Comparison
 
