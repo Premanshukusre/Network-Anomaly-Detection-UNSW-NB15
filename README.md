@@ -8,6 +8,10 @@ This project demonstrates different machine learning techniques for anomaly dete
 
 ---
 
+## 📌 Introduction
+
+This project focuses on detecting network anomalies using machine learning techniques on the UNSW-NB15 dataset.
+
 ## 📊 Dataset
 
 The UNSW-NB15 dataset contains modern network traffic data including both normal and malicious activities.
