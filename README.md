@@ -98,6 +98,13 @@ To build and compare multiple machine learning models for detecting network intr
 3. Upload dataset
 4. Run all cells
 
+## ✨ Highlights
+
+- Implemented 5 ML models
+- Compared performance
+- Used GitHub workflow
+- Maintained daily logs
+
 ## 📊 Model Comparison (Till Now)
 
 - Decision Tree → Simple but prone to overfitting
