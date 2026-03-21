@@ -91,6 +91,13 @@ To build and compare multiple machine learning models for detecting network intr
 
 ---
 
+## ⚙️ How to Run
+
+1. Install dependencies using requirements.txt
+2. Open notebooks in Google Colab
+3. Upload dataset
+4. Run all cells
+
 ## 📊 Model Comparison (Till Now)
 
 - Decision Tree → Simple but prone to overfitting
