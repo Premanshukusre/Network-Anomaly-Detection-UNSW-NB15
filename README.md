@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-ML-blue)
+
 # Network Anomaly Detection using UNSW-NB15
 
 This project is part of Machine Learning TAE-1 (Project Based Learning).
