@@ -75,7 +75,17 @@ Network-Anomaly-Detection-UNSW-NB15
 - Project completed ✅
 
 ---
+## 📊 Accuracy Comparison
 
+| Model | Accuracy |
+|------|---------|
+| Decision Tree | XX% |
+| Random Forest | XX% |
+| SVM | XX% |
+| Logistic Regression | XX% |
+| KNN | XX% |
+
+---
 ## 🚀 Objective
 
 To build and compare multiple machine learning models for detecting network intrusions and improve accuracy using different algorithms.
