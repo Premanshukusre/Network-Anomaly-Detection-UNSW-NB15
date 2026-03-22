@@ -125,7 +125,13 @@ To build and compare multiple machine learning models for detecting network intr
 Random Forest performed best due to ensemble learning.
 
 ---
+## ⚠️ Limitations
 
+- Dataset size limitations
+- Model tuning not performed
+- High computation for some models
+  
+---
 
 ## 📊 Model Comparison (Till Now)
 
