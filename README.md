@@ -53,6 +53,12 @@ Target Variable:
 - Applied feature scaling
 - Final model in the project
 
+  ## Day 7 (Analysis)
+
+- Compared all models
+- Identified best performing model
+- Analyzed strengths and weaknesses
+
 ---
 
 ## 📁 Repository Structure
