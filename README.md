@@ -55,12 +55,6 @@ Target Variable:
 - Applied feature scaling
 - Final model in the project
 
-  ## Day 7 (Analysis)
-
-- Compared all models
-- Identified best performing model
-- Analyzed strengths and weaknesses
-
 ---
 
 ## 📁 Repository Structure
@@ -81,6 +75,8 @@ Network-Anomaly-Detection-UNSW-NB15
 - Day 4 → Logistic Regression completed
 - Day 5 → KNN completed
 - Project completed ✅
+- Day 6 (Project Improvement)
+- Day 7 (Analysis)
 
 ---
 ## 📊 Accuracy Comparison
