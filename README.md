@@ -120,6 +120,12 @@ To build and compare multiple machine learning models for detecting network intr
 - Maintained daily logs
 
 ---
+## 🏆 Best Model
+
+Random Forest performed best due to ensemble learning.
+
+---
+
 
 ## 📊 Model Comparison (Till Now)
 
