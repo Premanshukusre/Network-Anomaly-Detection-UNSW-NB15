@@ -158,3 +158,10 @@ This project is being developed step-by-step with proper version control using G
 
 This project demonstrates multiple machine learning approaches for network anomaly detection using UNSW-NB15 dataset.
 
+---
+## 🚀 Future Scope
+
+- Use deep learning models
+- Improve feature engineering
+- Use larger datasets
+---
