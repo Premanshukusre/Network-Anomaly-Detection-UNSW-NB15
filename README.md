@@ -1,174 +1,107 @@
-![Python](https://img.shields.io/badge/Python-ML-blue)
+README FILE
+Project: Network Anomaly Detection using UNSW-NB15 Dataset
+This document explains the project, implementation details, and step-by- step instructions to execute the code successfully. 
 
-# Network Anomaly Detection using UNSW-NB15
+Network Anomaly Detection using UNSW-NB15
+This project is part of Machine Learning TAE-1 (Project Based Learning).
+The objective of this project is to detect network anomalies using multiple machine learning algorithms on the UNSW-NB15 dataset.
 
-This  project is part of Machine Learning TAE-1 (Project Based Learning).
+Introduction
+This project focuses on identifying malicious network activities using supervised machine learning techniques. It compares multiple models to determine the most effective approach for intrusion detection.
 
-The goal of this project is to detect network anomalies using machine learning algorithms on the UNSW-NB15 dataset.
-
-This project demonstrates different machine learning techniques for anomaly detection.
-
----
-
-## 📌 Introduction
-
-This project focuses on detecting network anomalies using machine learning techniques on the UNSW-NB15 dataset.
-
----
-
-## 📊 Dataset
-
-The UNSW-NB15 dataset contains modern network traffic data including both normal and malicious activities.
-
-It includes various features such as protocol, service, packet information, and statistical attributes.
-
+Dataset
+The dataset used is UNSW-NB15 [1], [2] (also available on Kaggle).
+It contains modern network traffic with both normal and attack data.
 Target Variable:
-- 0 → Normal Traffic
-- 1 → Attack / Anomaly
+0 → Normal Traffic
+1 → Attack / Anomaly
 
----
+Models Implemented
+Decision Tree
+Random Forest
+XGBoost
+K-Nearest Neighbors (KNN)
+Logistic Regression
+Support Vector Machine (SVM)
+Naive Bayes
 
-## 🤖 Models Implemented
-
-### ✅ Practical 01: Decision Tree
-- Implemented Decision Tree classifier
-- Performed data preprocessing and encoding
-- Evaluated using accuracy and confusion matrix
-
-### ✅ Practical 02: Random Forest
-- Implemented Random Forest classifier
-- Improved performance using ensemble learning
-- Compared results with Decision Tree
-
-### ✅ Practical 03: SVM
-- Implemented SVM classifier using LinearSVC
-- Applied feature scaling for better performance
-- Compared results with previous models
-
-### ✅ Practical 04: Logistic Regression
-- Implemented Logistic Regression classifier
-- Applied feature scaling for better performance
-- Compared results with other models
-
-### ✅ Practical 05: KNN
-- Implemented KNN classifier
-- Applied feature scaling
-- Final model in the project
-
----
-
-## 📁 Repository Structure
+Project Structure
 Network-Anomaly-Detection-UNSW-NB15
-│
-├── README.md
-├── datasets
-├── logs
-├── models
+│── README.md
+│── datasets/
+│── models/
+│── logs/
+│── notebooks/
 
----
+How to Run the Project
+Clone the repository:
+git clone <your-repo-link>
+cd Network-Anomaly-Detection-UNSW-NB15
+Install required libraries:
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+Download dataset:
+•	Place dataset files inside the datasets/ folder 
+•	Or upload in Google Colab 
+Open the project:
+•	Open .ipynb files in Google Colab or Jupyter Notebook 
+Run the code:
+•	Execute all cells step-by-step 
+•	Models will train and display results
 
-## 📈 Progress
+      Accuracy Comparison
+Model	Accuracy
+Decision Tree	99.96%
+Random Forest	99.92%
+XGBoost	97.76%
+KNN	97.61%
+Logistic Regression	94.98%
+SVM	94.77%
+Naive Bayes	71.09%
+    
+                                        
 
-- Day 1 → Decision Tree completed
-- Day 2 → Random Forest completed
-- Day 3 → SVM completed
-- Day 4 → Logistic Regression completed
-- Day 5 → KNN completed
-- Project completed ✅
-- Day 6 (Project Improvement)
-- Day 7 (Analysis)
 
----
-## 📊 Accuracy Comparison
 
-| Model | Accuracy |
-|------|---------|
-| Decision Tree | XX% |
-| Random Forest | XX% |
-| SVM | XX% |
-| Logistic Regression | XX% |
-| KNN | XX% |
 
----
 
-## 🚀 Objective
+Objective
+To build and compare multiple machine learning models for detecting network intrusions and analyze their performance.
 
-To build and compare multiple machine learning models for detecting network intrusions and improve accuracy using different algorithms.
+Technologies Used
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+XGBoost
 
----
+Highlights
+•	Implemented multiple machine learning models 
+•	Compared performance using accuracy, precision, recall, and F1-score 
+•	Applied preprocessing and feature scaling where required 
+•	Maintained structured workflow using GitHub 
 
-## 🧠 Technologies Used
+Best Model
+Random Forest performed best due to its ensemble learning capability and stability.
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+Limitations
+•	Possible overfitting in Decision Tree 
+•	Limited hyperparameter tuning 
+•	Higher computation time for some models 
 
----
+Model Insights
+Decision Tree: High accuracy but prone to overfitting
+Random Forest: Best overall performance
+XGBoost: Balanced and reliable
+SVM and Logistic Regression: Moderate performance
+KNN: Good accuracy but slower prediction
+Naive Bayes: Lowest performance due to feature independence assumption
 
-## ⚙️ How to Run
-
-1. Install dependencies using requirements.txt
-2. Open notebooks in Google Colab
-3. Upload dataset
-4. Run all cells
-
----
-
-## ✨ Highlights
-
-- Implemented 5 ML models
-- Compared performance
-- Used GitHub workflow
-- Maintained daily logs
-
----
-## 🏆 Best Model
-
-Random Forest performed best due to ensemble learning.
-
----
-## ⚠️ Limitations
-
-- Dataset size limitations
-- Model tuning not performed
-- High computation for some models
-  
----
-
-## 📊 Model Comparison (Till Now)
-
-- Decision Tree → Simple but prone to overfitting
-- Random Forest → Best performance so far
-- SVM → Good but slower for large dataset
-- Logistic Regression → Simple but less powerful for complex patterns
-
----
-
-## 📌 Note
-
-This project is being developed step-by-step with proper version control using GitHub.
-
----
-
-## 📊 Final Model Comparison
-
-- Decision Tree → Easy but overfitting risk
-- Random Forest → Best performance overall
-- SVM → Good but slow for large data
-- Logistic Regression → Simple but limited
-- KNN → Simple but slower during prediction
-
-This project demonstrates multiple machine learning approaches for network anomaly detection using UNSW-NB15 dataset.
-
----
-
-## 🚀 Future Scope
-
-- Use deep learning models
-- Improve feature engineering
-- Use larger   datasets
-  
----
+Future Scope
+•	Apply deep learning models (ANN, CNN) 
+•	Perform hyperparameter tuning 
+•	Improve feature engineering 
+•	Develop real-time intrusion detection system 
+•	Use Explainable AI techniques
+                        
