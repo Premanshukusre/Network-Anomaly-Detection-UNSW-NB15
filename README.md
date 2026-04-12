@@ -139,6 +139,10 @@ Place dataset files inside the `datasets/` folder or upload in Google Colab.
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
-## License
+GitHub Profiles
 
-This project is open source and available under the MIT License.
+Prathamesh Deshmukh
+https://github.com/PrathameshDeshmukh07
+
+Premanshu Kusre
+https://github.com/Premanshukusre
